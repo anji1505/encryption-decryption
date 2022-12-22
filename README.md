@@ -1,4 +1,4 @@
-# Encryption-Decryption
+# ENCRYPTION-DECRYPTION-GPG
 
 ## How To Encrypt File on Linux
 
